@@ -20,7 +20,15 @@ Estudante de tecnologia, desenvolvedor mobile (android e ios).
       src="https://github-readme-stats.vercel.app/api?username=MaikonLima&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=MaikonLima&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
 </p>
+
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
