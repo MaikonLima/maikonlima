@@ -1,10 +1,14 @@
-### Hi there 👋
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaikonLima)](https://github.com/MaikonLima)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/maikon-anderson-388810127/)](http://www.linkedin.com/in/maikon-anderson-388810127/)
 
-Estudante de tecnologia, desenvolvedor mobile (android e ios). 
-
+<p align="center">
+  <a href="#">
+    <img align="center" width="280" src="name-user.png" />
+  </a>
+  <a href="#">
+    <img align="center" width="510" src="pocket-rocket.gif" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,6 +29,9 @@ Estudante de tecnologia, desenvolvedor mobile (android e ios).
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+<p align="center">
+    <a>Estudante de tecnologia, desenvolvedor mobile (android e ios). </a>
+</p>
 
 <!--
 **MaikonLima/maikonlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
