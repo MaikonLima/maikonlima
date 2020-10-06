@@ -6,7 +6,7 @@
     <img align="center" width="280" src="user-name.png" />
   </a>
   <a href="#">
-    <img align="center" width="510" src="pocket-rocket.gif" />
+    <img align="center" width="310" src="web.gif" />
   </a>
 </p>
 
