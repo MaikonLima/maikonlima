@@ -2,9 +2,6 @@
   <a href="#">
     <img align="center" width="280" src="user-name.png" />
   </a>
-  <a href="#">
-    <img align="center" width="310" src="web.gif" />
-  </a>
 </p>
 
 <p align="center">
