@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="#">
-    <img align="center" width="280" src="user-name.png" />
-  </a>
-</p>
-
-<p align="center">
   <a>
     <img
       align="center"
