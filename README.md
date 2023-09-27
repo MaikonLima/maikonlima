@@ -22,5 +22,5 @@
 </p>-->
 
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaikonLima)](https://github.com/MaikonLima) -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/maikon-anderson-388810127/)](http://www.linkedin.com/in/maikon-anderson-388810127/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maikonguimaraes/)](https://www.linkedin.com/in/maikonguimaraes/)
 
